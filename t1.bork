@@ -1,0 +1,41 @@
+Test Dungeon
+Bork v2
+===
+Rooms:
+Center room 1
+Its very much in the middle. An empty room with a desk center stage. There appears to be a paper lying on the desk.
+---
+West room 1
+A room to the left. It contains nothing of intrest.
+---
+Far west room 1
+The end of the hall. There is a window on the far side. It appears a thunder storm is rolling in.
+---
+East room 1
+This room leads to staircase. The first step is blokced by a beem to heavy to lift.
+---
+East room 2
+Entering the second floor you notice a distinct sour odor. Unsure of the source.
+---
+Center Room 2
+The walls are lined with cabinets and theres a trap door in the middle of the room.
+---
+===
+Exits:
+Center room 1
+w
+West room 1
+---
+West room 1
+e
+Center room 1
+---
+West room 1
+w
+Far west room 1
+---
+Far west room 1
+e
+West room 1
+---
+===

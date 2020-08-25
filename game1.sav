@@ -1,0 +1,33 @@
+Group Bork v1.0
+Dungeon file: game1.bork
+Room states:
+Stephen's office:
+beenHere=false
+Contents: StarWarsToy,WawaTravelMug,donut
+---
+Room B6:
+beenHere=false
+NPCs: Grunt(8:0:0)
+---
+Basement hallway:
+beenHere=false
+Contents: DrPepper
+---
+Room B13:
+beenHere=false
+Contents: Bomb
+---
+Rotunda balcony:
+beenHere=true
+Contents: chainsaw,magicWand,snickers
+---
+Rotunda:
+beenHere=true
+NPCs: Tpain(10:0:4)
+---
+===
+Adventurer:
+Current room: Rotunda
+Inventory: basicSword
+Health: 10
+Score: 0

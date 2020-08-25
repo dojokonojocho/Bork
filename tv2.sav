@@ -1,0 +1,23 @@
+Bork v2
+Dungeon file: tv2.bork
+Room states:
+Stephen's office:
+beenHere=false
+---
+Room B6:
+beenHere=false
+---
+Basement hallway:
+beenHere=false
+---
+Room B13:
+beenHere=false
+---
+Rotunda balcony:
+beenHere=false
+---
+Rotunda:
+beenHere=true
+---
+===
+Current room: Rotunda

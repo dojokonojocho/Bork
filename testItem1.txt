@@ -1,0 +1,6 @@
+DrPepper
+10
+kick:The can skitters down the hallway.
+shake:A liquid fizzes menacingly inside the can.
+drink:Gulp, gulp -- that was GOOD!
+---
